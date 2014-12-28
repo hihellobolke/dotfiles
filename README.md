@@ -1,6 +1,6 @@
-# Dotfiles (Nicolas Gallagher)
+# Dotfiles
 
-My OS X dotfiles.
+Mine Mine Mine, My OS X dotfiles.
 
 
 ## How to install
@@ -82,17 +82,6 @@ Node packages:
 * [jshint](http://www.jshint.com/)
 * [yo](http://yeoman.io/)
 
-Vim plugins:
-
-* [ctrlp.vim](https://github.com/kien/ctrlp.vim)
-* [html5.vim](https://github.com/othree/html5.vim)
-* [syntastic](https://github.com/scrooloose/syntastic)
-* [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
-* [vim-git](https://github.com/tpope/vim-git)
-* [vim-javascript](https://github.com/pangloss/vim-javascript)
-* [vim-markdown](https://github.com/tpope/vim-markdown)
-* [vim-mustache-handlebars](https://github.com/mustache/vim-mustache-handlebars)
-* [vim-pathogen](https://github.com/tpope/vim-pathogen)
 
 ### Custom OS X defaults
 
